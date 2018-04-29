@@ -1,8 +1,13 @@
-- menu_name: "Dankeschön"
+- menu_name: "Sincere Thanks"
 
+-name: "Feeling Responsive"
+  url: "https://github.com/Phlow/feeling-responsive"
+  class: "network-enctypo"
+  title: "Feeling Responsive Jekyll theme by Phlow
+  
 - name: "Icons by Daniel Bruce"
   url: "http://entypo.com/"
-  class: "network-entypo"
+  class: "network-enctypo"
   title: "Icons by Daniel Bruce"
 
 - name: "Built on Foundation"
