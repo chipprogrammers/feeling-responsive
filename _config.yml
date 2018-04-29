@@ -16,8 +16,8 @@ slogan: 'Electronics for everyone'
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: '»Chipprogrammers« is a website created for sharing my ideas and knowledge about Electronics with you. If you are interested in this site you can donate money for maintaining this website awesome.'
 
-# The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://chipprogrammer.blogspot.com/">Arun</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+# Footer Credits
+credits: '<p>Created with &hearts; by <a href="http://chipprogrammer.blogspot.com/">Arun</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a><br />&copy; 2017 Chipprogrammers'
 
 # Main author of the website
 # See > authors.yml
